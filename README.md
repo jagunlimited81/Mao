@@ -6,7 +6,7 @@ The goal of Mao is to get rid of all of your cards
 ## Setup
 The game is for 2-10 players.
 
-Every player starts with seven cards and they are dealt face down. The rest of the cards are placed in a Draw Pile face down. Next to the pile, a space should be designated for a Discard pile. The top card should be placed in the Discard Pile. If any player touches their cards before the game has started, they are penalized (see more information in the Penalties section).
+One player is chosen as the dealer. Every player is dealt seven cards and they face down. The rest of the cards are placed in a Draw Pile face down. Next to the pile, a space should be designated for a Discard pile. The top card should be placed in the Discard Pile. If any player touches their cards before the game has started, they are penalized (see more information in the Penalties section).
 
 When the dealer has announced the direction of play and announced "The Game of Mao has begun" all players pick upt ehir cards 
 1. The player that knows the Game of Mao becomes the dealer. Everyone including the dealer is a player. All players can enforce the rules of Mao.
