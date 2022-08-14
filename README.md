@@ -2,7 +2,8 @@
 The game of Mao is a game of rules
 
 ## Setup
-The game is for 2-8ish players.
+The game is for 2-10 players.
+
 Every player starts with seven cards and they are dealt face down. The rest of the cards are placed in a Draw Pile face down, Next to the pile, a space should be designated for a Discard pile. The top card should be placed in the Discard Pile. If any player touches their cards before the game has started, they are penalized (see more information in the Penalties section).
 
 When the dealer has announced the direction of play and announced "The Game of Mao has begun" all players pick upt ehir cards 
@@ -21,4 +22,6 @@ You have to match either by the number or suit of the card. For example, if the 
 
 If a player has no matches or they choose not to play any of their cards even though they might have a match, they must draw from the Draw pile. If that card can be played, play it. Otherwise, keep the card, and the game moves on to the next player in turn.
 
+## Penalties:
 
+P
