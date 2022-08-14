@@ -21,6 +21,14 @@ If a player has no matches or they choose not to play any of their cards even th
 
 ## Penalties:
 The heard of Mao lies in its dynamic Rules and avoiding the penalties for breaking them. Any time a player breaks one of the rules, it is up to the other players to catch it. They must then say "penalty for", followed by an explanation of the action that broke the rule (but not necessarily the rule itself). The player must then take one card as their penalty.
+### Giving penalites
+Whenever a rule is broken, the player is penalized by being given one card from the draw pile. Any player can administer a penalty card, and upon giving the card, they must state what the penalized play has done to deserve the card.
+
+Some Examples include:
+
+*Suzy plays a seven, but forgets to say "Have a nice day." You give her one card and say, “Failure to say ‘have a nice day.’”*
+### Bad Calls
+If a player penalizes you improperly, you may give that player the penalty card the just gave you and one additional penalty card and say "bad call".
 
 ## Point of Order
 A player may call "Point of order" at any point during the game. All players must immediately put their hand down; you may not touch any cards besides the draw stack and discard pile. During a Point of Order, all verbal rules are suspended (unless specified otherise). Questions may be asked, but the Rules of Mao may not be explained. A Point of Order may only be ended by the person that started it saying "end point of order".
