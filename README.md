@@ -10,9 +10,9 @@ One player is chosen as the dealer. Every player is dealt seven cards and they f
 
 When the dealer has announced the direction of play and announced "The Game of Mao has begun" all players pick up their cards 
 
-All players can enforce the rules of Mao.
+## Basic Gameplay
+The rules of Mao outlined in **Rules** must be followed at all times. All players can enforce the rules of Mao.
 
-## Rules of play
 Every player views his/her cards and tries to match the card in the Discard Pile.
 
 You have to match either by the number or suit of the card. For example, if the discard pile has a 5 of hearts, any 5 or card with hearts can be played. (UNO rules)
