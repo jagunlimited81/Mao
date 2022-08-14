@@ -38,11 +38,12 @@ To win a game of Mao, a player must play their last card without breaking any ru
 - Any time you recieve a penalty, you must thank the player that gave it to you.
 - Players may not ask ANY questions
 - Players can trigger a Point of Order by saying "point of order". See Point of Order for more details.
+- Players must announce "one card" any time their hand dwindles to one card.
+- Saying the word "Mao" while a game is in progress results in a FIVE card penalty.
 
 ### Card Specific Rules
 - Ace's skip the next player's turn.
 - 2's let you play again IF you have another card to play. Drawing is not an option.
-- 7's cause the next player to draw two cards and lose their turn. The player who draws the two cards must also say "Have a nice day".
+- 7's cause the next player to draw two cards and lose their turn. The player who draws the two cards must also say "Have a nice day". The player who draws the two cards may instead play another 7 to "stack it" pass the cumulative burden on to the next player.
 - 8's reverse the direction of play.
-- Jack's are wildcards. The suit must be called before the card is played. The player may not change their mind.
-- 
+- Jack's are wildcards. The suit must be called before the card is played. The player may not change their mind. Playing a Jack on top of a Jack is forbidden and results in a THREE card penalty; the player loses their turn and the jack is discarded.
