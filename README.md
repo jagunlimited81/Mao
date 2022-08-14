@@ -43,6 +43,8 @@ To win a game of Mao, a player must play their last card without breaking any ru
 - Players can trigger a Point of Order by saying "point of order". See Point of Order for more details.
 - Players must announce "one card" any time their hand dwindles to one card.
 - Saying the word "Mao" while a game is in progress results in a FIVE card penalty.
+- Saying "point of order" during a Point of Order is forbidden. Explained by saying "Saying P of O during a P of O"
+- After the game has finished and "Mao" has been said, the winner of the game gets to make up one new rule for the next time the game is played. It is not told to the players during gameplay.
 
 ### Card Specific Rules
 - When a player plays a spade, the player must announce "__ of Spades" where "__" is the card name.
